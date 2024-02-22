@@ -1,6 +1,6 @@
 # Data Pipeline with Reddit, Airflow, S3, Snowflake, Snowpipe and Snowsight
 
-This project provides a comprehensive data pipeline solution to extract, transform, and load (ETL) Reddit data into a Snowflake data warehouse. The pipeline leverages a combination of tools and services including Apache Airflow, Amazon S3 and snowflake services.
+This project provides a comprehensive data pipeline solution to extract, transform, and load (ETL) Reddit data into a Snowflake data warehouse. The pipeline leverages a combination of tools and services including Apache Airflow, Amazon EC2, S3 and snowflake services.
 
 ## Table of Contents
 
@@ -19,7 +19,9 @@ The pipeline is designed to:
 4. Load the transformed data into Snowflake for for analytics and querying.
 
 ## Architecture
-![RedditDataEngineering.png](assets%2FRedditDataEngineering.png)
+
+<img width="1346" alt="Screenshot 2024-02-22 at 12 46 49 AM" src="https://github.com/avinash4720/Reddit-NBA-analytics/assets/59311336/3e48f63f-c7fc-4f74-a4a1-efd82e17fce2">
+
 1. **Reddit API**: Source of the data.
 2. **Apache Airflow**: Orchestrates the ETL process and manages task distribution.
 3. **Amazon S3**: Transformed Reddit data storage.
