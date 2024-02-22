@@ -19,8 +19,8 @@ The pipeline is designed to:
 4. Load the transformed data into Snowflake for for analytics and querying.
 
 ## Architecture
+<img width="1462" alt="Screenshot 2024-02-22 at 12 52 29 AM" src="https://github.com/avinash4720/Reddit-NBA-analytics/assets/59311336/3395c288-3546-4b7c-b0e1-4e1d6490c447">
 
-<img width="1346" alt="Screenshot 2024-02-22 at 12 46 49 AM" src="https://github.com/avinash4720/Reddit-NBA-analytics/assets/59311336/3e48f63f-c7fc-4f74-a4a1-efd82e17fce2">
 
 1. **Reddit API**: Source of the data.
 2. **Apache Airflow**: Orchestrates the ETL process and manages task distribution.
