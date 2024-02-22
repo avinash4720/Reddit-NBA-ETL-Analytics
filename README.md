@@ -1,4 +1,4 @@
-# Data Pipeline with Reddit, Airflow, S3, Snowflake, Snowpipe and Snowsight
+# Data Pipeline with sentiment classifier with Reddit, Airflow, S3, Snowflake, Snowpipe and Snowsight
 
 This project provides a comprehensive data pipeline solution to extract, transform, and load (ETL) Reddit data into a Snowflake data warehouse. The pipeline leverages a combination of tools and services including Apache Airflow, Amazon EC2, S3 and snowflake services.
 
