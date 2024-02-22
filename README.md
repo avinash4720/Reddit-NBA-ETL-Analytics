@@ -28,6 +28,7 @@ The pipeline is designed to:
 
 ## Prerequisites
 - AWS Account with appropriate permissions for S3.
+- Snowflake account
 - Reddit API credentials.
 - Python 3.9 or higher
 
@@ -38,25 +39,18 @@ The pipeline is designed to:
    ```
 2. Create a virtual environment.
    ```bash
-    python3 -m venv venv
+    python3 -m venv "your env"
    ```
 3. Activate the virtual environment.
    ```bash
-    source venv/bin/activate
+    source "your env"/bin/activate
    ```
 4. Install the dependencies.
    ```bash
-    pip install -r requirements.txt
+    pip install airflow
    ```
-5. Rename the configuration file and the credentials to the file.
+5. Launch the Airflow web UI.
    ```bash
-    mv config/config.conf.example config/config.conf
-   ```
-6. Starting the containers
-   ```bash
-    docker-compose up -d
-   ```
-7. Launch the Airflow web UI.
-   ```bash
+    airflow standalone
     open http://localhost:8080
    ```
