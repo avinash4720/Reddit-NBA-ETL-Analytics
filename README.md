@@ -29,13 +29,12 @@ The pipeline is designed to:
 ## Prerequisites
 - AWS Account with appropriate permissions for S3.
 - Reddit API credentials.
-- Docker Installation
 - Python 3.9 or higher
 
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/
+    git clone https://github.com/avinash4720/Reddit-NBA-analytics.git
    ```
 2. Create a virtual environment.
    ```bash
