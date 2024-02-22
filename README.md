@@ -8,7 +8,6 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
 - [System Setup](#system-setup)
-- [Video](#video)
 
 ## Overview
 
@@ -22,15 +21,13 @@ The pipeline is designed to:
 ## Architecture
 ![RedditDataEngineering.png](assets%2FRedditDataEngineering.png)
 1. **Reddit API**: Source of the data.
-2. **Apache Airflow & Celery**: Orchestrates the ETL process and manages task distribution.
-3. **PostgreSQL**: Temporary storage and metadata management.
-4. **Amazon S3**: Raw data storage.
-5. **AWS Glue**: Data cataloging and ETL jobs.
-6. **Amazon Athena**: SQL-based data transformation.
-7. **Amazon Redshift**: Data warehousing and analytics.
+2. **Apache Airflow**: Orchestrates the ETL process and manages task distribution.
+3. **Amazon S3**: Transformed Reddit data storage.
+6. **Snowflake**: SQL-based data transformation.
+7. **Snowsight**: Data warehousing and analytics.
 
 ## Prerequisites
-- AWS Account with appropriate permissions for S3, Glue, Athena, and Redshift.
+- AWS Account with appropriate permissions for S3.
 - Reddit API credentials.
 - Docker Installation
 - Python 3.9 or higher
@@ -38,7 +35,7 @@ The pipeline is designed to:
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/airscholar/RedditDataEngineering.git
+    git clone https://github.com/
    ```
 2. Create a virtual environment.
    ```bash
@@ -64,7 +61,3 @@ The pipeline is designed to:
    ```bash
     open http://localhost:8080
    ```
-
-
-## Video
-[![Reddit Data Engineering](https://img.youtube.com/vi/LSlt6iVI_9Y/0.jpg)](https://www.youtube.com/watch?v=LSlt6iVI_9Y)
