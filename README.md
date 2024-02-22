@@ -54,3 +54,7 @@ The pipeline is designed to:
     airflow standalone
     open http://localhost:8080
    ```
+
+## Output
+<img width="1512" alt="Screenshot 2024-02-21 at 7 28 13 PM" src="https://github.com/avinash4720/Reddit-NBA-analytics/assets/59311336/92119a9d-5f9b-46f0-b969-8da9db060f48">
+
