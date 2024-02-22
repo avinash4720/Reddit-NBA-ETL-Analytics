@@ -1,0 +1,70 @@
+[2024-02-22T00:01:13.713+0000] {processor.py:161} INFO - Started process (PID=4654) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:01:13.714+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:01:13.715+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:13.715+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:01:13.727+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:01:13.755+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:13.754+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:01:13.767+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:13.766+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:01:13.791+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2024-02-22T00:03:50.627+0000] {processor.py:161} INFO - Started process (PID=6200) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:03:50.628+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:03:50.629+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:50.629+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:03:50.641+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:03:50.669+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:50.668+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:03:50.681+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:50.680+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:03:50.703+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-02-22T00:05:45.158+0000] {processor.py:161} INFO - Started process (PID=7348) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:05:45.160+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:05:45.161+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:05:45.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:05:45.174+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:05:45.201+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:05:45.201+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:05:45.214+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:05:45.214+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:05:45.237+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-02-22T00:06:46.735+0000] {processor.py:161} INFO - Started process (PID=7593) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:06:46.736+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:06:46.737+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:46.737+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:06:46.750+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:06:46.777+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:46.777+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:46.789+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:46.789+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:06:46.813+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-02-22T00:07:47.411+0000] {processor.py:161} INFO - Started process (PID=7785) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:07:47.413+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:07:47.414+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:47.414+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:07:47.426+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:07:47.454+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:47.453+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:07:47.466+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:47.465+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:07:47.489+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2024-02-22T00:08:47.733+0000] {processor.py:161} INFO - Started process (PID=7911) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:08:47.735+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:08:47.736+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:47.735+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:08:47.748+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:08:47.776+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:47.775+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:47.788+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:47.788+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:08:47.812+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.082 seconds
+[2024-02-22T00:09:43.812+0000] {processor.py:161} INFO - Started process (PID=8035) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:09:43.814+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:09:43.815+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:43.814+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:09:43.826+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:09:43.853+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:43.853+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:09:43.865+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:43.865+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:09:43.887+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.078 seconds
+[2024-02-22T00:10:45.186+0000] {processor.py:161} INFO - Started process (PID=8165) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:10:45.187+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:10:45.188+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:45.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:10:45.200+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:10:45.227+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:45.226+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:45.238+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:45.238+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:10:45.260+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2024-02-22T00:11:48.334+0000] {processor.py:161} INFO - Started process (PID=8294) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:11:48.335+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:11:48.336+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:48.336+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:11:48.348+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:11:48.375+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:48.375+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:11:48.387+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:48.386+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:11:48.412+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2024-02-22T00:12:50.132+0000] {processor.py:161} INFO - Started process (PID=8485) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:12:50.133+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-22T00:12:50.134+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:50.134+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:12:50.146+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-22T00:12:50.173+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:50.172+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:50.184+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:50.184+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-22T00:12:50.206+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds

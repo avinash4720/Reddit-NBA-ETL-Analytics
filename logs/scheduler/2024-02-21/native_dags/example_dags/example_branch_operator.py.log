@@ -1,0 +1,14 @@
+[2024-02-21T23:57:44.529+0000] {processor.py:161} INFO - Started process (PID=2136) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-02-21T23:57:44.530+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-02-21T23:57:44.531+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:44.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-02-21T23:57:44.550+0000] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-02-21T23:57:44.652+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:44.652+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:44.672+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:44.671+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:57:44.697+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.171 seconds
+[2024-02-21T23:58:38.124+0000] {processor.py:161} INFO - Started process (PID=2736) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-02-21T23:58:38.126+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-02-21T23:58:38.127+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:38.126+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-02-21T23:58:38.145+0000] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-02-21T23:58:38.169+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:38.168+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:38.190+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:38.190+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:58:38.212+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.091 seconds

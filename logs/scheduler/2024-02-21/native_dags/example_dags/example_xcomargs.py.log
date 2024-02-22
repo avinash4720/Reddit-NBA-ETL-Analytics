@@ -1,0 +1,32 @@
+[2024-02-21T23:57:08.551+0000] {processor.py:161} INFO - Started process (PID=2036) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:57:08.552+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-02-21T23:57:08.553+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:08.553+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:57:08.566+0000] {processor.py:840} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:57:08.574+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:08.574+0000] {dag.py:3036} INFO - Sync 2 DAGs
+[2024-02-21T23:57:08.587+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:08.587+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-02-21T23:57:08.591+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:08.591+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-02-21T23:57:08.612+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.064 seconds
+[2024-02-21T23:58:03.042+0000] {processor.py:161} INFO - Started process (PID=2273) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:58:03.043+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-02-21T23:58:03.044+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:03.044+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:58:03.054+0000] {processor.py:840} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:58:03.163+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:03.163+0000] {dag.py:3036} INFO - Sync 2 DAGs
+[2024-02-21T23:58:03.173+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:03.173+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-02-21T23:58:03.176+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:03.176+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-02-21T23:58:03.199+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.160 seconds
+[2024-02-21T23:58:52.165+0000] {processor.py:161} INFO - Started process (PID=2930) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:58:52.166+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-02-21T23:58:52.167+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:52.167+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:58:52.176+0000] {processor.py:840} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:58:52.196+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:52.195+0000] {dag.py:3036} INFO - Sync 2 DAGs
+[2024-02-21T23:58:52.208+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:52.207+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-02-21T23:58:52.211+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:52.211+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-02-21T23:58:52.232+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.071 seconds
+[2024-02-21T23:59:35.598+0000] {processor.py:161} INFO - Started process (PID=3484) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:59:35.600+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-02-21T23:59:35.601+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:35.601+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:59:35.611+0000] {processor.py:840} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-02-21T23:59:35.630+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:35.630+0000] {dag.py:3036} INFO - Sync 2 DAGs
+[2024-02-21T23:59:35.643+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:35.643+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-02-21T23:59:35.647+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:35.647+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-02-21T23:59:35.668+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.073 seconds

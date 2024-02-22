@@ -1,0 +1,21 @@
+[2024-02-21T23:57:19.942+0000] {processor.py:161} INFO - Started process (PID=2051) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:57:19.943+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-02-21T23:57:19.944+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:19.943+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:57:19.960+0000] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:57:19.968+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:19.967+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:19.981+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:19.981+0000] {dag.py:3823} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-02-21T23:57:20.005+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py took 0.067 seconds
+[2024-02-21T23:58:15.778+0000] {processor.py:161} INFO - Started process (PID=2435) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:58:15.780+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-02-21T23:58:15.781+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:15.780+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:58:15.796+0000] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:58:15.897+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:15.896+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:15.908+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:15.908+0000] {dag.py:3823} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-02-21T23:58:15.933+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py took 0.158 seconds
+[2024-02-21T23:59:06.486+0000] {processor.py:161} INFO - Started process (PID=3130) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:59:06.488+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-02-21T23:59:06.489+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:06.488+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:59:06.503+0000] {processor.py:840} INFO - DAG(s) 'example_python_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-02-21T23:59:06.521+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:06.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:06.533+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:06.533+0000] {dag.py:3823} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-02-21T23:59:06.555+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py took 0.073 seconds

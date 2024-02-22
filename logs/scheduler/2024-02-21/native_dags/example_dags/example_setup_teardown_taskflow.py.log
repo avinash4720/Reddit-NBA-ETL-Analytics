@@ -1,0 +1,21 @@
+[2024-02-21T23:57:26.416+0000] {processor.py:161} INFO - Started process (PID=2119) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:57:26.417+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-02-21T23:57:26.418+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:26.418+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:57:26.432+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:57:26.532+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:26.532+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:26.550+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:26.549+0000] {dag.py:3823} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:57:26.573+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.160 seconds
+[2024-02-21T23:58:21.477+0000] {processor.py:161} INFO - Started process (PID=2537) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:58:21.479+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-02-21T23:58:21.480+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:21.480+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:58:21.492+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:58:21.509+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:21.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:21.531+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:21.531+0000] {dag.py:3823} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:58:21.553+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.080 seconds
+[2024-02-21T23:59:12.387+0000] {processor.py:161} INFO - Started process (PID=3196) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:59:12.389+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-02-21T23:59:12.390+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:12.389+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:59:12.401+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-02-21T23:59:12.418+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:12.418+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:12.438+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:12.438+0000] {dag.py:3823} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:59:12.460+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.076 seconds

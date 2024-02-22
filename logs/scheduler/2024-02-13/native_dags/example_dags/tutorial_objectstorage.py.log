@@ -1,0 +1,105 @@
+[2024-02-13T05:20:41.706+0000] {processor.py:161} INFO - Started process (PID=2428) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:20:41.707+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:20:41.708+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:20:41.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:20:41.718+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:20:41.726+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:20:41.725+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:20:41.738+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:20:41.738+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:20:41.760+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.057 seconds
+[2024-02-13T05:21:30.542+0000] {processor.py:161} INFO - Started process (PID=2785) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:21:30.543+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:21:30.544+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:30.544+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:21:30.552+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:21:30.649+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:30.649+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:21:30.659+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:30.659+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:21:30.681+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.142 seconds
+[2024-02-13T05:22:09.564+0000] {processor.py:161} INFO - Started process (PID=2946) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:22:09.566+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:22:09.567+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:09.566+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:22:09.574+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:22:09.589+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:09.589+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:22:09.602+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:09.601+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:22:09.624+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2024-02-13T05:22:44.654+0000] {processor.py:161} INFO - Started process (PID=3167) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:22:44.655+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:22:44.656+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:44.656+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:22:44.664+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:22:44.678+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:44.678+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:22:44.690+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:44.690+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:22:44.711+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.060 seconds
+[2024-02-13T05:23:16.692+0000] {processor.py:161} INFO - Started process (PID=3262) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:23:16.693+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:23:16.694+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:16.694+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:23:16.702+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:23:16.716+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:16.716+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:23:16.729+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:16.729+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:23:16.751+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2024-02-13T05:23:50.060+0000] {processor.py:161} INFO - Started process (PID=3362) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:23:50.062+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:23:50.063+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:50.062+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:23:50.071+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:23:50.085+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:50.085+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:23:50.097+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:50.097+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:23:50.119+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2024-02-13T05:24:23.352+0000] {processor.py:161} INFO - Started process (PID=3399) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:24:23.353+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:24:23.354+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:23.353+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:24:23.361+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:24:23.376+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:23.376+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:24:23.388+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:23.388+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:24:23.410+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2024-02-13T05:24:57.190+0000] {processor.py:161} INFO - Started process (PID=3494) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:24:57.192+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:24:57.193+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:57.193+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:24:57.201+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:24:57.216+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:57.216+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:24:57.228+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:57.227+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:24:57.249+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2024-02-13T05:25:31.679+0000] {processor.py:161} INFO - Started process (PID=3532) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:25:31.681+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:25:31.681+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:31.681+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:25:31.689+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:25:31.704+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:31.704+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:25:31.717+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:31.716+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:25:31.739+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2024-02-13T05:26:10.597+0000] {processor.py:161} INFO - Started process (PID=3696) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:26:10.598+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:26:10.599+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:10.599+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:26:10.607+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:26:10.622+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:10.621+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:26:10.633+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:10.633+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:26:10.656+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2024-02-13T05:26:52.484+0000] {processor.py:161} INFO - Started process (PID=3923) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:26:52.486+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:26:52.487+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:52.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:26:52.494+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:26:52.508+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:52.508+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:26:52.520+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:52.520+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:26:52.542+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.061 seconds
+[2024-02-13T05:27:34.823+0000] {processor.py:161} INFO - Started process (PID=4263) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:27:34.824+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:27:34.825+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:34.825+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:27:34.833+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:27:34.847+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:34.847+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:27:34.859+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:34.859+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:27:34.881+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2024-02-13T05:28:15.671+0000] {processor.py:161} INFO - Started process (PID=4553) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:28:15.673+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:28:15.674+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:15.673+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:28:15.682+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:28:15.696+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:15.696+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:28:15.708+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:15.708+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:28:15.730+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds
+[2024-02-13T05:28:56.496+0000] {processor.py:161} INFO - Started process (PID=4661) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:28:56.498+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:28:56.499+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:56.498+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:28:56.507+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:28:56.522+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:56.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:28:56.533+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:56.533+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:28:56.556+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.063 seconds
+[2024-02-13T05:29:34.231+0000] {processor.py:161} INFO - Started process (PID=4705) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:29:34.232+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-02-13T05:29:34.233+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:34.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:29:34.241+0000] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-02-13T05:29:34.256+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:34.255+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:29:34.267+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:34.267+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-02-13T05:29:34.289+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.062 seconds

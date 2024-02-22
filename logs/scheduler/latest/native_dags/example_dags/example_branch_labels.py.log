@@ -1,0 +1,77 @@
+[2024-02-22T00:01:08.538+0000] {processor.py:161} INFO - Started process (PID=4649) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:01:08.539+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:01:08.540+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:08.540+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:01:08.549+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:01:08.567+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:08.567+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:01:08.590+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:08.590+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:01:08.615+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.080 seconds
+[2024-02-22T00:03:40.361+0000] {processor.py:161} INFO - Started process (PID=6130) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:03:40.362+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:03:40.363+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:40.363+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:03:40.372+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:03:40.390+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:40.390+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:03:40.412+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:40.412+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:03:40.434+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.077 seconds
+[2024-02-22T00:05:19.721+0000] {processor.py:161} INFO - Started process (PID=7041) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:05:19.723+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:05:19.724+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:05:19.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:05:19.733+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:05:19.750+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:05:19.750+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:05:19.772+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:05:19.771+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:05:19.795+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.077 seconds
+[2024-02-22T00:06:36.231+0000] {processor.py:161} INFO - Started process (PID=7583) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:06:36.233+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:06:36.234+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:36.233+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:06:36.243+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:06:36.260+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:36.260+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:36.282+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:36.282+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:06:36.313+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.086 seconds
+[2024-02-22T00:07:25.726+0000] {processor.py:161} INFO - Started process (PID=7760) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:07:25.727+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:07:25.728+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:25.728+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:07:25.738+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:07:25.755+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:25.755+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:07:25.778+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:25.777+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:07:25.808+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.086 seconds
+[2024-02-22T00:08:27.198+0000] {processor.py:161} INFO - Started process (PID=7889) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:08:27.200+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:08:27.201+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:27.200+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:08:27.210+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:08:27.228+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:27.228+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:27.250+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:27.250+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:08:27.273+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.078 seconds
+[2024-02-22T00:09:22.387+0000] {processor.py:161} INFO - Started process (PID=8012) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:09:22.389+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:09:22.390+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:22.389+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:09:22.399+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:09:22.416+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:22.416+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:09:22.438+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:22.438+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:09:22.461+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.077 seconds
+[2024-02-22T00:10:23.710+0000] {processor.py:161} INFO - Started process (PID=8140) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:10:23.712+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:10:23.713+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:23.712+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:10:23.721+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:10:23.739+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:23.739+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:23.761+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:23.761+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:10:23.783+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.076 seconds
+[2024-02-22T00:11:24.783+0000] {processor.py:161} INFO - Started process (PID=8271) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:11:24.784+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:11:24.785+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:24.785+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:11:24.794+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:11:24.812+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:24.812+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:11:24.835+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:24.834+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:11:24.857+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.077 seconds
+[2024-02-22T00:12:27.589+0000] {processor.py:161} INFO - Started process (PID=8459) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:12:27.590+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:12:27.591+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:27.591+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:12:27.600+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:12:27.617+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:27.617+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:27.638+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:27.638+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:12:27.660+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.075 seconds
+[2024-02-22T00:13:29.624+0000] {processor.py:161} INFO - Started process (PID=8591) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:13:29.625+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-02-22T00:13:29.626+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:29.626+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:13:29.635+0000] {processor.py:840} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-02-22T00:13:29.654+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:29.653+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:13:29.677+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:29.677+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_labels to 2024-02-21 00:00:00+00:00, run_after=2024-02-22 00:00:00+00:00
+[2024-02-22T00:13:29.700+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.080 seconds

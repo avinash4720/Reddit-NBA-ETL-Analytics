@@ -1,0 +1,21 @@
+[2024-02-21T23:57:18.787+0000] {processor.py:161} INFO - Started process (PID=2050) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:57:18.788+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-02-21T23:57:18.789+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:18.789+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:57:18.797+0000] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:57:18.805+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:18.805+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:18.828+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:18.828+0000] {dag.py:3823} INFO - Setting next_dagrun for latest_only to 2024-02-21 16:00:00+00:00, run_after=2024-02-21 20:00:00+00:00
+[2024-02-21T23:57:18.852+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.068 seconds
+[2024-02-21T23:58:14.916+0000] {processor.py:161} INFO - Started process (PID=2408) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:58:14.918+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-02-21T23:58:14.919+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:14.918+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:58:14.925+0000] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:58:15.021+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:15.021+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:15.041+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:15.041+0000] {dag.py:3823} INFO - Setting next_dagrun for latest_only to 2024-02-21 16:00:00+00:00, run_after=2024-02-21 20:00:00+00:00
+[2024-02-21T23:58:15.086+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.173 seconds
+[2024-02-21T23:59:05.323+0000] {processor.py:161} INFO - Started process (PID=3094) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:59:05.325+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-02-21T23:59:05.326+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:05.325+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:59:05.332+0000] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-02-21T23:59:05.348+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:05.348+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:05.369+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:05.369+0000] {dag.py:3823} INFO - Setting next_dagrun for latest_only to 2024-02-21 16:00:00+00:00, run_after=2024-02-21 20:00:00+00:00
+[2024-02-21T23:59:05.392+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds

@@ -1,0 +1,28 @@
+[2024-02-21T23:57:11.157+0000] {processor.py:161} INFO - Started process (PID=2039) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:57:11.158+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-02-21T23:57:11.159+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:11.159+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:57:11.167+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:57:11.175+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:11.174+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:11.189+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:11.188+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-02-21T23:57:11.214+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2024-02-21T23:58:05.787+0000] {processor.py:161} INFO - Started process (PID=2301) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:58:05.789+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-02-21T23:58:05.789+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:05.789+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:58:05.795+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:58:05.891+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:05.891+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:05.901+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:05.900+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-02-21T23:58:05.927+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.144 seconds
+[2024-02-21T23:58:55.001+0000] {processor.py:161} INFO - Started process (PID=2933) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:58:55.002+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-02-21T23:58:55.003+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:55.003+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:58:55.010+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:58:55.026+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:55.025+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:55.037+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:55.037+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-02-21T23:58:55.059+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2024-02-21T23:59:38.286+0000] {processor.py:161} INFO - Started process (PID=3522) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:59:38.287+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-02-21T23:59:38.292+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:38.288+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:59:38.299+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-02-21T23:59:38.316+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:38.316+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:38.329+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:38.328+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-02-21T23:59:38.353+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds

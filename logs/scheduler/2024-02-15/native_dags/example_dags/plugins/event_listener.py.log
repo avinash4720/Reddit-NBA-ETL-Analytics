@@ -1,0 +1,15 @@
+[2024-02-15T00:00:32.177+0000] {processor.py:161} INFO - Started process (PID=23011) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:00:32.178+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-02-15T00:00:32.179+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:32.178+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:00:32.181+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:00:32.192+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.018 seconds
+[2024-02-15T00:01:18.235+0000] {processor.py:161} INFO - Started process (PID=23063) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:01:18.236+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-02-15T00:01:18.237+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:18.237+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:01:18.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:01:18.251+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.019 seconds
+[2024-02-15T00:02:14.341+0000] {processor.py:161} INFO - Started process (PID=23188) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:02:14.343+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-02-15T00:02:14.344+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:14.343+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:02:14.346+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-02-15T00:02:14.356+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.018 seconds

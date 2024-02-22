@@ -1,0 +1,98 @@
+[2024-02-13T05:20:47.630+0000] {processor.py:161} INFO - Started process (PID=2498) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:20:47.630+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:20:47.631+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:20:47.631+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:20:47.642+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:20:47.650+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:20:47.650+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:20:47.671+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:20:47.671+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:20:47.693+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2024-02-13T05:21:37.129+0000] {processor.py:161} INFO - Started process (PID=2791) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:21:37.131+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:21:37.132+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:37.131+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:21:37.140+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:21:37.240+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:37.240+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:21:37.258+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:37.257+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:21:37.281+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.155 seconds
+[2024-02-13T05:22:15.851+0000] {processor.py:161} INFO - Started process (PID=3012) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:22:15.853+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:22:15.854+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:15.853+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:22:15.862+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:22:15.878+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:15.878+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:22:15.899+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:15.899+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:22:15.920+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds
+[2024-02-13T05:23:01.246+0000] {processor.py:161} INFO - Started process (PID=3245) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:23:01.247+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:23:01.248+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:01.248+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:23:01.257+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:23:01.274+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:01.273+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:23:01.294+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:01.294+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:23:01.317+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2024-02-13T05:23:37.488+0000] {processor.py:161} INFO - Started process (PID=3287) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:23:37.490+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:23:37.491+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:37.490+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:23:37.499+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:23:37.515+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:37.515+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:23:37.536+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:37.536+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:23:37.558+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2024-02-13T05:24:26.769+0000] {processor.py:161} INFO - Started process (PID=3402) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:24:26.771+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:24:26.772+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:26.771+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:24:26.780+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:24:26.797+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:26.796+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:24:26.816+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:26.816+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:24:26.839+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.073 seconds
+[2024-02-13T05:25:16.228+0000] {processor.py:161} INFO - Started process (PID=3516) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:25:16.230+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:25:16.231+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:16.230+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:25:16.239+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:25:16.256+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:16.256+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:25:16.278+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:16.278+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:25:16.301+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2024-02-13T05:25:53.428+0000] {processor.py:161} INFO - Started process (PID=3679) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:25:53.430+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:25:53.430+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:53.430+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:25:53.439+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:25:53.455+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:53.455+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:25:53.475+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:53.475+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:25:53.496+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2024-02-13T05:26:36.210+0000] {processor.py:161} INFO - Started process (PID=3846) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:26:36.211+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:26:36.212+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:36.212+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:26:36.221+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:26:36.237+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:36.237+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:26:36.257+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:36.257+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:26:36.278+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2024-02-13T05:27:16.713+0000] {processor.py:161} INFO - Started process (PID=4125) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:27:16.715+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:27:16.715+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:16.715+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:27:16.724+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:27:16.740+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:16.740+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:27:16.761+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:16.761+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:27:16.784+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.074 seconds
+[2024-02-13T05:27:59.504+0000] {processor.py:161} INFO - Started process (PID=4536) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:27:59.505+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:27:59.506+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:59.506+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:27:59.514+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:27:59.531+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:59.530+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:27:59.550+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:59.550+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:27:59.572+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.071 seconds
+[2024-02-13T05:28:40.065+0000] {processor.py:161} INFO - Started process (PID=4584) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:28:40.067+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:28:40.067+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:40.067+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:28:40.076+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:28:40.093+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:40.092+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:28:40.114+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:40.114+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:28:40.137+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2024-02-13T05:29:17.195+0000] {processor.py:161} INFO - Started process (PID=4688) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:29:17.197+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:29:17.198+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:17.198+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:29:17.206+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:29:17.223+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:17.223+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:29:17.244+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:17.244+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:29:17.291+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2024-02-13T05:29:57.105+0000] {processor.py:161} INFO - Started process (PID=4790) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:29:57.107+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-02-13T05:29:57.108+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:57.107+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:29:57.116+0000] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2024-02-13T05:29:57.132+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:57.132+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:29:57.152+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:57.152+0000] {dag.py:3823} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-02-13T05:29:57.174+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.072 seconds

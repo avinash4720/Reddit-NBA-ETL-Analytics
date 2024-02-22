@@ -1,0 +1,21 @@
+[2024-02-15T00:00:31.037+0000] {processor.py:161} INFO - Started process (PID=23010) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:00:31.038+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-15T00:00:31.039+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:31.039+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:00:31.046+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:00:31.062+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:31.062+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-15T00:00:31.074+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:31.074+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-15T00:00:31.097+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2024-02-15T00:01:17.095+0000] {processor.py:161} INFO - Started process (PID=23062) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:01:17.097+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-15T00:01:17.098+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:17.097+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:01:17.104+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:01:17.119+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:17.119+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-15T00:01:17.131+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:17.131+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-15T00:01:17.156+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2024-02-15T00:02:12.055+0000] {processor.py:161} INFO - Started process (PID=23186) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:02:12.057+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-15T00:02:12.058+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:12.057+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:02:12.065+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-15T00:02:12.080+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:12.080+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-15T00:02:12.092+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:12.092+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-15T00:02:12.115+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds

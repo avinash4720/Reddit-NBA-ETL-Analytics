@@ -1,0 +1,21 @@
+[2024-02-21T23:57:23.999+0000] {processor.py:161} INFO - Started process (PID=2117) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:57:24.000+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-02-21T23:57:24.001+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:24.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:57:24.012+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:57:24.114+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:24.113+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:24.133+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:24.132+0000] {dag.py:3823} INFO - Setting next_dagrun for example_setup_teardown to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:57:24.156+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.160 seconds
+[2024-02-21T23:58:19.781+0000] {processor.py:161} INFO - Started process (PID=2475) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:58:19.783+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-02-21T23:58:19.784+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:19.783+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:58:19.792+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:58:19.808+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:19.808+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:19.830+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:19.830+0000] {dag.py:3823} INFO - Setting next_dagrun for example_setup_teardown to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:58:19.853+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.075 seconds
+[2024-02-21T23:59:10.460+0000] {processor.py:161} INFO - Started process (PID=3159) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:59:10.461+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-02-21T23:59:10.462+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:10.462+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:59:10.471+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-02-21T23:59:10.487+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:10.487+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:10.509+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:10.508+0000] {dag.py:3823} INFO - Setting next_dagrun for example_setup_teardown to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:59:10.532+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.075 seconds

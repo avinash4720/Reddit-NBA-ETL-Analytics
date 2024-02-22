@@ -1,0 +1,28 @@
+[2024-02-21T23:57:04.863+0000] {processor.py:161} INFO - Started process (PID=1972) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:57:04.864+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-02-21T23:57:04.865+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:04.865+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:57:04.875+0000] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:57:04.883+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:04.883+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:04.897+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:04.897+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-02-21T23:57:04.920+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.060 seconds
+[2024-02-21T23:57:58.929+0000] {processor.py:161} INFO - Started process (PID=2209) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:57:58.931+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-02-21T23:57:58.932+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:58.931+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:57:58.939+0000] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:57:59.038+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:59.037+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:59.047+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:59.047+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-02-21T23:57:59.070+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.144 seconds
+[2024-02-21T23:58:47.845+0000] {processor.py:161} INFO - Started process (PID=2866) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:58:47.846+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-02-21T23:58:47.847+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:47.847+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:58:47.855+0000] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:58:47.870+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:47.870+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:47.882+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:47.882+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-02-21T23:58:47.904+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.062 seconds
+[2024-02-21T23:59:31.587+0000] {processor.py:161} INFO - Started process (PID=3455) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:59:31.589+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-02-21T23:59:31.590+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:31.589+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:59:31.597+0000] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-02-21T23:59:31.614+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:31.613+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:31.626+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:31.626+0000] {dag.py:3823} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-02-21T23:59:31.650+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.066 seconds

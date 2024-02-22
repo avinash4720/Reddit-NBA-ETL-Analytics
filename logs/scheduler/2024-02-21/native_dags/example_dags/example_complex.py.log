@@ -1,0 +1,14 @@
+[2024-02-21T23:57:51.382+0000] {processor.py:161} INFO - Started process (PID=2142) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-21T23:57:51.383+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-21T23:57:51.384+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:51.384+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-21T23:57:51.396+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-21T23:57:51.506+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:51.505+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:51.516+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:51.515+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-21T23:57:51.543+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.164 seconds
+[2024-02-21T23:59:02.477+0000] {processor.py:161} INFO - Started process (PID=3063) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-21T23:59:02.479+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-02-21T23:59:02.480+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:02.479+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-21T23:59:02.492+0000] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-02-21T23:59:02.519+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:02.519+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:02.531+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:02.531+0000] {dag.py:3823} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-02-21T23:59:02.553+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds

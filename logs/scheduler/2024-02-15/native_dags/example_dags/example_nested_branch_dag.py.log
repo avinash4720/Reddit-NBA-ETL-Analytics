@@ -1,0 +1,21 @@
+[2024-02-15T00:00:41.638+0000] {processor.py:161} INFO - Started process (PID=23024) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:00:41.639+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-02-15T00:00:41.640+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:41.639+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:00:41.651+0000] {processor.py:840} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:00:41.669+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:41.669+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-15T00:00:41.690+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:41.690+0000] {dag.py:3823} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-02-14 00:00:00+00:00, run_after=2024-02-15 00:00:00+00:00
+[2024-02-15T00:00:41.714+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.079 seconds
+[2024-02-15T00:01:36.560+0000] {processor.py:161} INFO - Started process (PID=23149) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:01:36.562+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-02-15T00:01:36.563+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:36.562+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:01:36.574+0000] {processor.py:840} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:01:36.592+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:36.592+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-15T00:01:36.613+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:36.613+0000] {dag.py:3823} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-02-14 00:00:00+00:00, run_after=2024-02-15 00:00:00+00:00
+[2024-02-15T00:01:36.635+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.079 seconds
+[2024-02-15T00:02:37.826+0000] {processor.py:161} INFO - Started process (PID=23279) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:02:37.828+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-02-15T00:02:37.829+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:37.829+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:02:37.840+0000] {processor.py:840} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-02-15T00:02:37.858+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:37.858+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-15T00:02:37.880+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:37.879+0000] {dag.py:3823} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-02-14 00:00:00+00:00, run_after=2024-02-15 00:00:00+00:00
+[2024-02-15T00:02:37.902+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.079 seconds

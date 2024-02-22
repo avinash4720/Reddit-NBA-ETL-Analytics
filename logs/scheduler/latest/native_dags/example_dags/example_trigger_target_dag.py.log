@@ -1,0 +1,112 @@
+[2024-02-22T00:00:41.206+0000] {processor.py:161} INFO - Started process (PID=4378) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:00:41.207+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:00:41.208+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:00:41.208+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:00:41.215+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:00:41.231+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:00:41.231+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:00:41.244+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:00:41.243+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:00:41.268+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2024-02-22T00:01:29.009+0000] {processor.py:161} INFO - Started process (PID=4730) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:01:29.010+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:01:29.011+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:29.011+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:01:29.018+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:01:29.034+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:29.033+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:01:29.046+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:29.045+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:01:29.069+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2024-02-22T00:03:16.556+0000] {processor.py:161} INFO - Started process (PID=6103) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:03:16.558+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:03:16.559+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:16.558+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:03:16.566+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:03:16.581+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:16.581+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:03:16.593+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:16.593+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:03:16.616+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2024-02-22T00:04:36.194+0000] {processor.py:161} INFO - Started process (PID=6726) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:04:36.196+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:04:36.197+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:36.196+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:04:36.204+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:04:36.220+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:36.219+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:04:36.231+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:36.231+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:04:36.253+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2024-02-22T00:06:00.606+0000] {processor.py:161} INFO - Started process (PID=7484) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:06:00.608+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:06:00.609+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:00.609+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:06:00.617+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:06:00.633+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:00.633+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:00.646+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:00.645+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:06:00.670+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2024-02-22T00:06:51.372+0000] {processor.py:161} INFO - Started process (PID=7599) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:06:51.374+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:06:51.375+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:51.374+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:06:51.382+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:06:51.397+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:51.397+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:51.409+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:51.408+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:06:51.432+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2024-02-22T00:07:32.032+0000] {processor.py:161} INFO - Started process (PID=7767) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:07:32.034+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:07:32.035+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:32.034+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:07:32.042+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:07:32.058+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:32.058+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:07:32.070+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:32.070+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:07:32.093+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2024-02-22T00:08:13.176+0000] {processor.py:161} INFO - Started process (PID=7872) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:08:13.178+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:08:13.179+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:13.178+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:08:13.186+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:08:13.202+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:13.201+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:13.214+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:13.214+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:08:13.237+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2024-02-22T00:08:51.963+0000] {processor.py:161} INFO - Started process (PID=7917) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:08:51.965+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:08:51.966+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:51.965+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:08:51.973+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:08:51.989+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:51.989+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:52.001+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:52.001+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:08:52.024+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2024-02-22T00:09:30.787+0000] {processor.py:161} INFO - Started process (PID=8022) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:09:30.791+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:09:30.792+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:30.791+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:09:30.799+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:09:30.815+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:30.814+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:09:30.826+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:30.826+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:09:30.849+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2024-02-22T00:10:13.004+0000] {processor.py:161} INFO - Started process (PID=8128) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:10:13.006+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:10:13.007+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:13.006+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:10:13.014+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:10:13.030+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:13.030+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:13.042+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:13.042+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:10:13.066+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2024-02-22T00:10:53.569+0000] {processor.py:161} INFO - Started process (PID=8173) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:10:53.570+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:10:53.571+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:53.571+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:10:53.578+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:10:53.594+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:53.594+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:53.606+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:53.605+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:10:53.628+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2024-02-22T00:11:35.161+0000] {processor.py:161} INFO - Started process (PID=8281) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:11:35.162+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:11:35.163+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:35.163+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:11:35.170+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:11:35.186+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:35.186+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:11:35.199+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:35.198+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:11:35.222+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2024-02-22T00:12:16.962+0000] {processor.py:161} INFO - Started process (PID=8447) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:12:16.963+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:12:16.964+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:16.964+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:12:16.971+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:12:16.987+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:16.986+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:16.998+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:16.998+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:12:17.022+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2024-02-22T00:12:57.087+0000] {processor.py:161} INFO - Started process (PID=8555) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:12:57.089+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:12:57.090+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:57.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:12:57.097+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:12:57.113+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:57.112+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:57.124+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:57.124+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:12:57.147+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2024-02-22T00:13:40.484+0000] {processor.py:161} INFO - Started process (PID=8605) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:13:40.485+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-02-22T00:13:40.486+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:40.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:13:40.494+0000] {processor.py:840} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-02-22T00:13:40.510+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:40.509+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:13:40.522+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:40.521+0000] {dag.py:3823} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-02-22T00:13:40.545+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds

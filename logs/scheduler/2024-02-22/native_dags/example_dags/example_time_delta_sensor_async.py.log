@@ -1,0 +1,105 @@
+[2024-02-22T00:00:42.378+0000] {processor.py:161} INFO - Started process (PID=4379) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:00:42.379+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:00:42.380+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:00:42.380+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:00:42.386+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:00:42.402+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:00:42.402+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:00:42.414+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:00:42.414+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:00:42.447+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.072 seconds
+[2024-02-22T00:01:30.185+0000] {processor.py:161} INFO - Started process (PID=4731) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:01:30.186+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:01:30.187+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:30.187+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:01:30.193+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:01:30.209+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:30.208+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:01:30.221+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:30.220+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:01:30.244+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.063 seconds
+[2024-02-22T00:03:17.510+0000] {processor.py:161} INFO - Started process (PID=6104) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:03:17.512+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:03:17.513+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:17.512+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:03:17.519+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:03:17.535+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:17.535+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:03:17.547+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:17.547+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:03:17.570+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.063 seconds
+[2024-02-22T00:04:36.727+0000] {processor.py:161} INFO - Started process (PID=6727) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:04:36.733+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:04:36.734+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:36.733+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:04:36.740+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:04:36.757+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:36.756+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:04:36.768+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:36.768+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:04:36.792+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.068 seconds
+[2024-02-22T00:06:01.758+0000] {processor.py:161} INFO - Started process (PID=7485) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:06:01.759+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:06:01.760+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:01.760+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:06:01.766+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:06:01.784+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:01.783+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:01.796+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:01.796+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:06:01.821+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.067 seconds
+[2024-02-22T00:06:52.511+0000] {processor.py:161} INFO - Started process (PID=7600) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:06:52.514+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:06:52.515+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:52.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:06:52.521+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:06:52.537+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:52.537+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:52.550+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:52.550+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:06:52.573+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2024-02-22T00:07:33.170+0000] {processor.py:161} INFO - Started process (PID=7768) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:07:33.172+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:07:33.173+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:33.172+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:07:33.178+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:07:33.195+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:33.195+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:07:33.207+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:33.207+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:07:33.229+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.062 seconds
+[2024-02-22T00:08:14.315+0000] {processor.py:161} INFO - Started process (PID=7873) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:08:14.317+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:08:14.318+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:14.317+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:08:14.323+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:08:14.339+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:14.339+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:14.351+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:14.351+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:08:14.374+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.062 seconds
+[2024-02-22T00:08:53.104+0000] {processor.py:161} INFO - Started process (PID=7918) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:08:53.106+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:08:53.107+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:53.106+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:08:53.112+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:08:53.129+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:53.129+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:53.141+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:53.141+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:08:53.164+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.063 seconds
+[2024-02-22T00:09:31.926+0000] {processor.py:161} INFO - Started process (PID=8023) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:09:31.927+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:09:31.928+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:31.928+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:09:31.933+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:09:31.950+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:31.950+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:09:31.962+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:31.962+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:09:31.985+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.062 seconds
+[2024-02-22T00:10:13.410+0000] {processor.py:161} INFO - Started process (PID=8129) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:10:13.413+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:10:13.413+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:13.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:10:13.419+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:10:13.435+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:13.435+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:13.447+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:13.447+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:10:13.471+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2024-02-22T00:10:54.595+0000] {processor.py:161} INFO - Started process (PID=8174) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:10:54.596+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:10:54.597+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:54.597+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:10:54.603+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:10:54.620+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:54.619+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:54.632+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:54.631+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:10:54.654+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.062 seconds
+[2024-02-22T00:11:36.299+0000] {processor.py:161} INFO - Started process (PID=8282) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:11:36.301+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:11:36.302+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:36.301+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:11:36.307+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:11:36.323+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:36.323+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:11:36.335+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:36.334+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:11:36.357+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.061 seconds
+[2024-02-22T00:12:18.100+0000] {processor.py:161} INFO - Started process (PID=8448) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:12:18.103+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:12:18.104+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:18.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:12:18.110+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:12:18.126+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:18.126+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:18.138+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:18.138+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:12:18.161+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.064 seconds
+[2024-02-22T00:12:58.228+0000] {processor.py:161} INFO - Started process (PID=8556) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:12:58.229+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-02-22T00:12:58.230+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:58.230+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:12:58.236+0000] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-02-22T00:12:58.253+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:58.252+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:58.265+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:58.264+0000] {dag.py:3823} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-02-22T00:12:58.287+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.062 seconds

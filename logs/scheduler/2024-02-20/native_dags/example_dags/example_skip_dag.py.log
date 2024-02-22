@@ -1,0 +1,385 @@
+[2024-02-20T18:06:57.705+0000] {processor.py:161} INFO - Started process (PID=1968) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:06:57.706+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:06:57.707+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:06:57.706+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:06:57.717+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:06:57.820+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:06:57.819+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:06:57.840+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:06:57.840+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:06:57.863+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.162 seconds
+[2024-02-20T18:07:49.337+0000] {processor.py:161} INFO - Started process (PID=2205) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:07:49.339+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:07:49.340+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:07:49.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:07:49.348+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:07:49.365+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:07:49.365+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:07:49.388+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:07:49.388+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:07:49.411+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-02-20T18:08:36.997+0000] {processor.py:161} INFO - Started process (PID=2628) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:08:36.999+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:08:37.000+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:08:36.999+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:08:37.007+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:08:37.024+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:08:37.024+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:08:37.045+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:08:37.045+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:08:37.069+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-02-20T18:09:45.279+0000] {processor.py:161} INFO - Started process (PID=3074) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:09:45.281+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:09:45.282+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:09:45.281+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:09:45.290+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:09:45.307+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:09:45.307+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:09:45.328+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:09:45.328+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:09:45.350+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T18:10:34.051+0000] {processor.py:161} INFO - Started process (PID=3189) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:10:34.052+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:10:34.053+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:10:34.052+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:10:34.061+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:10:34.079+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:10:34.078+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:10:34.100+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:10:34.100+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:10:34.124+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-02-20T18:11:40.438+0000] {processor.py:161} INFO - Started process (PID=3702) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:11:40.440+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:11:40.441+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:11:40.441+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:11:40.449+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:11:40.467+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:11:40.467+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:11:40.488+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:11:40.488+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:11:40.511+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2024-02-20T18:12:28.259+0000] {processor.py:161} INFO - Started process (PID=3817) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:12:28.262+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:12:28.263+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:12:28.262+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:12:28.271+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:12:28.288+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:12:28.288+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:12:28.310+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:12:28.310+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:12:28.332+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2024-02-20T18:13:21.068+0000] {processor.py:161} INFO - Started process (PID=3881) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:13:21.071+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:13:21.072+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:13:21.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:13:21.080+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:13:21.097+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:13:21.097+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:13:21.119+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:13:21.118+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:13:21.141+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2024-02-20T18:14:21.543+0000] {processor.py:161} INFO - Started process (PID=4009) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:14:21.547+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:14:21.548+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:14:21.548+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:14:21.556+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:14:21.573+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:14:21.573+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:14:21.595+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:14:21.594+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:14:21.617+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-02-20T18:15:17.259+0000] {processor.py:161} INFO - Started process (PID=4136) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:15:17.261+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:15:17.262+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:15:17.261+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:15:17.270+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:15:17.288+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:15:17.287+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:15:17.310+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:15:17.309+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:15:17.332+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-02-20T18:16:16.965+0000] {processor.py:161} INFO - Started process (PID=4263) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:16:16.967+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:16:16.968+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:16:16.967+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:16:16.976+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:16:16.993+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:16:16.993+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:16:17.013+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:16:17.013+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:16:17.036+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-02-20T18:17:14.227+0000] {processor.py:161} INFO - Started process (PID=4454) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:17:14.228+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:17:14.229+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:17:14.229+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:17:14.237+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:17:14.254+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:17:14.254+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:17:14.275+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:17:14.275+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:17:14.299+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2024-02-20T18:17:54.787+0000] {processor.py:161} INFO - Started process (PID=4563) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:17:54.789+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:17:54.790+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:17:54.789+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:17:54.798+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:17:54.815+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:17:54.815+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:17:54.836+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:17:54.835+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:17:54.859+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-02-20T18:18:53.865+0000] {processor.py:161} INFO - Started process (PID=4690) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:18:53.867+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:18:53.868+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:18:53.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:18:53.876+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:18:53.893+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:18:53.893+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:18:53.913+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:18:53.913+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:18:53.936+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-02-20T18:19:51.328+0000] {processor.py:161} INFO - Started process (PID=4882) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:19:51.331+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:19:51.332+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:19:51.332+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:19:51.340+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:19:51.358+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:19:51.358+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:19:51.379+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:19:51.379+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:19:51.402+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2024-02-20T18:20:47.282+0000] {processor.py:161} INFO - Started process (PID=5005) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:20:47.283+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:20:47.284+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:20:47.283+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:20:47.292+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:20:47.309+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:20:47.309+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:20:47.329+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:20:47.329+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:20:47.351+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T18:21:43.691+0000] {processor.py:161} INFO - Started process (PID=5190) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:21:43.692+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:21:43.693+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:21:43.693+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:21:43.701+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:21:43.719+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:21:43.718+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:21:43.739+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:21:43.739+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:21:43.764+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-02-20T18:51:20.701+0000] {processor.py:161} INFO - Started process (PID=1661) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:51:20.704+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:51:20.704+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:51:20.704+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:51:20.714+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:51:20.722+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:51:20.721+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:51:20.743+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:51:20.743+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:51:20.766+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2024-02-20T18:52:13.642+0000] {processor.py:161} INFO - Started process (PID=1958) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:52:13.643+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:52:13.644+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:52:13.644+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:52:13.652+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:52:13.747+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:52:13.747+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:52:13.766+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:52:13.766+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:52:13.789+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2024-02-20T18:53:12.458+0000] {processor.py:161} INFO - Started process (PID=2334) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:53:12.459+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:53:12.460+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:53:12.460+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:53:12.468+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:53:12.485+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:53:12.485+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:53:12.505+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:53:12.505+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:53:12.528+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T18:54:00.516+0000] {processor.py:161} INFO - Started process (PID=2414) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:54:00.518+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:54:00.519+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:54:00.518+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:54:00.526+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:54:00.544+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:54:00.543+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:54:00.565+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:54:00.564+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:54:00.587+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T18:54:45.114+0000] {processor.py:161} INFO - Started process (PID=2502) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:54:45.115+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:54:45.116+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:54:45.116+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:54:45.124+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:54:45.141+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:54:45.140+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:54:45.162+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:54:45.161+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:54:45.184+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T18:55:43.318+0000] {processor.py:161} INFO - Started process (PID=2631) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:55:43.320+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:55:43.320+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:55:43.320+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:55:43.328+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:55:43.345+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:55:43.345+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:55:43.367+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:55:43.366+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:55:43.389+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T18:56:41.486+0000] {processor.py:161} INFO - Started process (PID=2818) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:56:41.487+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:56:41.488+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:56:41.488+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:56:41.496+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:56:41.513+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:56:41.513+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:56:41.535+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:56:41.534+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:56:41.557+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T18:57:51.494+0000] {processor.py:161} INFO - Started process (PID=3333) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:57:51.496+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:57:51.497+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:57:51.497+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:57:51.505+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:57:51.522+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:57:51.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:57:51.542+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:57:51.542+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:57:51.564+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T18:58:40.864+0000] {processor.py:161} INFO - Started process (PID=3447) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:58:40.865+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:58:40.866+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:58:40.866+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:58:40.874+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:58:40.890+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:58:40.890+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:58:40.910+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:58:40.910+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:58:40.932+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T18:59:34.694+0000] {processor.py:161} INFO - Started process (PID=3572) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:59:34.697+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T18:59:34.698+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:59:34.697+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:59:34.705+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T18:59:34.723+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:59:34.723+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T18:59:34.743+0000] {logging_mixin.py:188} INFO - [2024-02-20T18:59:34.743+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T18:59:34.766+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-02-20T19:00:52.366+0000] {processor.py:161} INFO - Started process (PID=4151) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:00:52.367+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:00:52.368+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:00:52.368+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:00:52.375+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:00:52.392+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:00:52.392+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:00:52.413+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:00:52.413+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:00:52.434+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:01:40.960+0000] {processor.py:161} INFO - Started process (PID=4328) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:01:40.962+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:01:40.963+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:01:40.962+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:01:40.970+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:01:40.987+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:01:40.986+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:01:41.006+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:01:41.006+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:01:41.027+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2024-02-20T19:02:25.237+0000] {processor.py:161} INFO - Started process (PID=4439) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:02:25.239+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:02:25.239+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:02:25.239+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:02:25.247+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:02:25.264+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:02:25.264+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:02:25.285+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:02:25.284+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:02:25.306+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:03:22.498+0000] {processor.py:161} INFO - Started process (PID=4568) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:03:22.499+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:03:22.500+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:03:22.500+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:03:22.508+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:03:22.525+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:03:22.525+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:03:22.546+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:03:22.545+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:03:22.568+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:04:20.107+0000] {processor.py:161} INFO - Started process (PID=4691) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:04:20.109+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:04:20.110+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:04:20.109+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:04:20.117+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:04:20.134+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:04:20.134+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:04:20.154+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:04:20.154+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:04:20.177+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:05:15.415+0000] {processor.py:161} INFO - Started process (PID=4821) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:05:15.417+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:05:15.418+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:05:15.418+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:05:15.426+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:05:15.442+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:05:15.442+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:05:15.463+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:05:15.463+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:05:15.485+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:06:13.285+0000] {processor.py:161} INFO - Started process (PID=5185) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:06:13.287+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:06:13.288+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:06:13.288+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:06:13.296+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:06:13.312+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:06:13.312+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:06:13.332+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:06:13.332+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:06:13.353+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2024-02-20T19:07:05.357+0000] {processor.py:161} INFO - Started process (PID=5308) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:07:05.358+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:07:05.359+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:07:05.359+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:07:05.367+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:07:05.385+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:07:05.384+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:07:05.405+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:07:05.405+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:07:05.428+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-02-20T19:08:20.518+0000] {processor.py:161} INFO - Started process (PID=5824) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:08:20.519+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:08:20.520+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:08:20.520+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:08:20.528+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:08:20.545+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:08:20.545+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:08:20.565+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:08:20.565+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:08:20.587+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:09:11.372+0000] {processor.py:161} INFO - Started process (PID=6004) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:09:11.374+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:09:11.375+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:09:11.374+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:09:11.382+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:09:11.399+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:09:11.399+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:09:11.419+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:09:11.419+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:09:11.441+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:10:12.202+0000] {processor.py:161} INFO - Started process (PID=6133) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:10:12.204+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:10:12.204+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:10:12.204+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:10:12.212+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:10:12.229+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:10:12.229+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:10:12.250+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:10:12.250+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:10:12.271+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2024-02-20T19:11:07.459+0000] {processor.py:161} INFO - Started process (PID=6321) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:11:07.461+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:11:07.462+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:11:07.461+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:11:07.469+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:11:07.486+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:11:07.486+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:11:07.508+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:11:07.508+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:11:07.531+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T19:12:03.304+0000] {processor.py:161} INFO - Started process (PID=6443) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:12:03.306+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:12:03.306+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:12:03.306+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:12:03.314+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:12:03.331+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:12:03.331+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:12:03.351+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:12:03.351+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:12:03.386+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2024-02-20T19:12:59.495+0000] {processor.py:161} INFO - Started process (PID=6508) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:12:59.496+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:12:59.497+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:12:59.497+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:12:59.505+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:12:59.522+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:12:59.522+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:12:59.542+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:12:59.542+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:12:59.563+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:13:59.962+0000] {processor.py:161} INFO - Started process (PID=6637) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:13:59.963+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:13:59.964+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:13:59.964+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:13:59.971+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:13:59.988+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:13:59.988+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:14:00.008+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:14:00.008+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:14:00.029+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2024-02-20T19:14:51.536+0000] {processor.py:161} INFO - Started process (PID=6760) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:14:51.538+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:14:51.539+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:14:51.538+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:14:51.546+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:14:51.564+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:14:51.563+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:14:51.584+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:14:51.584+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:14:51.607+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-02-20T19:15:53.986+0000] {processor.py:161} INFO - Started process (PID=7325) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:15:53.988+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:15:53.989+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:15:53.988+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:15:53.996+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:15:54.013+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:15:54.013+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:15:54.033+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:15:54.033+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:15:54.055+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:16:43.207+0000] {processor.py:161} INFO - Started process (PID=7500) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:16:43.209+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:16:43.210+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:16:43.210+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:16:43.217+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:16:43.235+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:16:43.234+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:16:43.255+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:16:43.255+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:16:43.276+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:17:42.123+0000] {processor.py:161} INFO - Started process (PID=7630) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:17:42.125+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:17:42.126+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:17:42.126+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:17:42.134+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:17:42.151+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:17:42.150+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:17:42.171+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:17:42.171+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:17:42.203+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2024-02-20T19:18:38.695+0000] {processor.py:161} INFO - Started process (PID=7753) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:18:38.697+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:18:38.698+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:18:38.697+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:18:38.706+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:18:38.723+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:18:38.722+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:18:38.743+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:18:38.743+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:18:38.765+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:19:19.958+0000] {processor.py:161} INFO - Started process (PID=7861) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:19:19.960+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:19:19.960+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:19:19.960+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:19:19.968+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:19:19.985+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:19:19.984+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:19:20.005+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:19:20.005+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:19:20.027+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:20:14.216+0000] {processor.py:161} INFO - Started process (PID=7986) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:20:14.218+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:20:14.219+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:20:14.218+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:20:14.226+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:20:14.244+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:20:14.243+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:20:14.264+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:20:14.264+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:20:14.286+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:20:56.225+0000] {processor.py:161} INFO - Started process (PID=8033) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:20:56.226+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:20:56.227+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:20:56.227+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:20:56.235+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:20:56.252+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:20:56.251+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:20:56.271+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:20:56.271+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:20:56.294+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:21:52.075+0000] {processor.py:161} INFO - Started process (PID=8216) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:21:52.077+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:21:52.078+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:21:52.077+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:21:52.085+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:21:52.103+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:21:52.102+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:21:52.123+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:21:52.122+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:21:52.144+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:22:51.058+0000] {processor.py:161} INFO - Started process (PID=8349) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:22:51.060+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:22:51.061+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:22:51.061+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:22:51.068+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:22:51.085+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:22:51.085+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:22:51.105+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:22:51.105+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:22:51.128+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:23:43.679+0000] {processor.py:161} INFO - Started process (PID=8470) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:23:43.681+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:23:43.682+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:23:43.681+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:23:43.689+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:23:43.706+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:23:43.706+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:23:43.726+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:23:43.726+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:23:43.748+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-02-20T19:24:41.870+0000] {processor.py:161} INFO - Started process (PID=8596) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:24:41.872+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:24:41.873+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:24:41.873+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:24:41.881+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:24:41.898+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:24:41.898+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:24:41.918+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:24:41.918+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:24:41.939+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-02-20T19:25:24.398+0000] {processor.py:161} INFO - Started process (PID=8703) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:25:24.400+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-02-20T19:25:24.401+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:25:24.400+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:25:24.408+0000] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-02-20T19:25:24.425+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:25:24.425+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-20T19:25:24.444+0000] {logging_mixin.py:188} INFO - [2024-02-20T19:25:24.444+0000] {dag.py:3823} INFO - Setting next_dagrun for example_skip_dag to 2024-02-19 00:00:00+00:00, run_after=2024-02-20 00:00:00+00:00
+[2024-02-20T19:25:24.467+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds

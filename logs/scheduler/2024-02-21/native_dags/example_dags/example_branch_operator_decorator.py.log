@@ -1,0 +1,14 @@
+[2024-02-21T23:57:48.388+0000] {processor.py:161} INFO - Started process (PID=2139) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-02-21T23:57:48.389+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2024-02-21T23:57:48.390+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:48.390+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-02-21T23:57:48.414+0000] {processor.py:840} INFO - DAG(s) 'example_branch_python_operator_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-02-21T23:57:48.516+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:48.515+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:48.535+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:48.535+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:57:48.562+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.177 seconds
+[2024-02-21T23:58:40.825+0000] {processor.py:161} INFO - Started process (PID=2764) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-02-21T23:58:40.826+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2024-02-21T23:58:40.827+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:40.827+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-02-21T23:58:40.851+0000] {processor.py:840} INFO - DAG(s) 'example_branch_python_operator_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-02-21T23:58:40.875+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:40.875+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:40.897+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:40.897+0000] {dag.py:3823} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:58:40.921+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.099 seconds

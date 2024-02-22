@@ -1,0 +1,21 @@
+[2024-02-21T23:57:31.819+0000] {processor.py:161} INFO - Started process (PID=2124) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:57:31.820+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-02-21T23:57:31.821+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:31.821+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:57:31.834+0000] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:57:31.966+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:31.966+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:31.976+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:31.976+0000] {dag.py:3823} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-02-21T23:57:32.001+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.185 seconds
+[2024-02-21T23:58:26.080+0000] {processor.py:161} INFO - Started process (PID=2568) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:58:26.082+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-02-21T23:58:26.083+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:26.083+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:58:26.096+0000] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:58:26.149+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:26.148+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:26.161+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:26.161+0000] {dag.py:3823} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-02-21T23:58:26.184+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.107 seconds
+[2024-02-21T23:59:17.155+0000] {processor.py:161} INFO - Started process (PID=3261) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:59:17.156+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-02-21T23:59:17.157+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:17.157+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:59:17.171+0000] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-02-21T23:59:17.226+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:17.226+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:17.238+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:17.238+0000] {dag.py:3823} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-02-21T23:59:17.262+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.111 seconds

@@ -1,0 +1,21 @@
+[2024-02-21T23:57:36.783+0000] {processor.py:161} INFO - Started process (PID=2128) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:57:36.784+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-02-21T23:57:36.785+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:36.784+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:57:36.795+0000] {processor.py:840} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:57:36.897+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:36.896+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:57:36.914+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:57:36.914+0000] {dag.py:3823} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:57:36.937+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.157 seconds
+[2024-02-21T23:58:30.108+0000] {processor.py:161} INFO - Started process (PID=2633) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:58:30.110+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-02-21T23:58:30.111+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:30.110+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:58:30.121+0000] {processor.py:840} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:58:30.140+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:30.140+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:58:30.161+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:58:30.160+0000] {dag.py:3823} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:58:30.182+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.077 seconds
+[2024-02-21T23:59:20.885+0000] {processor.py:161} INFO - Started process (PID=3290) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:59:20.886+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-02-21T23:59:20.887+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:20.887+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:59:20.898+0000] {processor.py:840} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-21T23:59:20.917+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:20.917+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-21T23:59:20.938+0000] {logging_mixin.py:188} INFO - [2024-02-21T23:59:20.938+0000] {dag.py:3823} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-02-20 00:00:00+00:00, run_after=2024-02-21 00:00:00+00:00
+[2024-02-21T23:59:20.960+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.079 seconds

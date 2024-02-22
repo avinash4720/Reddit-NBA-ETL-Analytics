@@ -1,0 +1,20 @@
+[2024-02-15T00:00:13.192+0000] {processor.py:161} INFO - Started process (PID=22833) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:00:13.193+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-02-15T00:00:13.194+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:13.193+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:00:13.197+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:00:13.207+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.018 seconds
+[2024-02-15T00:00:59.056+0000] {processor.py:161} INFO - Started process (PID=23041) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:00:59.058+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-02-15T00:00:59.059+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:00:59.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:00:59.062+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:00:59.072+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.019 seconds
+[2024-02-15T00:01:54.197+0000] {processor.py:161} INFO - Started process (PID=23168) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:01:54.199+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-02-15T00:01:54.200+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:01:54.199+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:01:54.203+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:01:54.214+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.020 seconds
+[2024-02-15T00:02:33.265+0000] {processor.py:161} INFO - Started process (PID=23275) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:02:33.267+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-02-15T00:02:33.268+0000] {logging_mixin.py:188} INFO - [2024-02-15T00:02:33.267+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:02:33.271+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-02-15T00:02:33.281+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.019 seconds

@@ -1,0 +1,84 @@
+[2024-02-22T00:01:01.027+0000] {processor.py:161} INFO - Started process (PID=4607) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:01:01.028+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:01:01.029+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:01.028+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:01:01.036+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:01:01.051+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:01.051+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:01:01.063+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:01.063+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:01:01.086+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.062 seconds
+[2024-02-22T00:01:53.666+0000] {processor.py:161} INFO - Started process (PID=5058) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:01:53.668+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:01:53.669+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:53.668+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:01:53.676+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:01:53.692+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:53.692+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:01:53.704+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:01:53.703+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:01:53.726+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.063 seconds
+[2024-02-22T00:03:35.443+0000] {processor.py:161} INFO - Started process (PID=6125) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:03:35.450+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:03:35.451+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:35.451+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:03:35.458+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:03:35.474+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:35.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:03:35.487+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:03:35.486+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:03:35.510+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.070 seconds
+[2024-02-22T00:04:59.154+0000] {processor.py:161} INFO - Started process (PID=6815) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:04:59.157+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:04:59.158+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:59.157+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:04:59.165+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:04:59.182+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:59.182+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:04:59.194+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:04:59.194+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:04:59.219+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.068 seconds
+[2024-02-22T00:06:19.948+0000] {processor.py:161} INFO - Started process (PID=7506) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:06:19.950+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:06:19.951+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:19.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:06:19.958+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:06:19.975+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:19.974+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:06:19.987+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:06:19.987+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:06:20.012+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.067 seconds
+[2024-02-22T00:07:20.182+0000] {processor.py:161} INFO - Started process (PID=7753) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:07:20.184+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:07:20.185+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:20.184+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:07:20.192+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:07:20.209+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:20.209+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:07:20.221+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:07:20.221+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:07:20.246+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.068 seconds
+[2024-02-22T00:08:21.005+0000] {processor.py:161} INFO - Started process (PID=7882) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:08:21.007+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:08:21.008+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:21.008+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:08:21.015+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:08:21.031+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:21.031+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:08:21.043+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:08:21.043+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:08:21.065+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.063 seconds
+[2024-02-22T00:09:15.331+0000] {processor.py:161} INFO - Started process (PID=8005) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:09:15.332+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:09:15.333+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:15.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:09:15.340+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:09:15.356+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:15.356+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:09:15.368+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:09:15.368+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:09:15.390+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.063 seconds
+[2024-02-22T00:10:17.975+0000] {processor.py:161} INFO - Started process (PID=8133) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:10:17.977+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:10:17.978+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:17.978+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:10:17.985+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:10:18.001+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:18.001+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:10:18.013+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:10:18.013+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:10:18.037+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.064 seconds
+[2024-02-22T00:11:18.472+0000] {processor.py:161} INFO - Started process (PID=8264) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:11:18.473+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:11:18.474+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:18.474+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:11:18.482+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:11:18.497+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:18.497+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:11:18.509+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:11:18.509+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:11:18.533+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.064 seconds
+[2024-02-22T00:12:09.029+0000] {processor.py:161} INFO - Started process (PID=8439) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:12:09.031+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:12:09.032+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:09.031+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:12:09.039+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:12:09.055+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:09.055+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:12:09.067+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:12:09.066+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:12:09.091+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.065 seconds
+[2024-02-22T00:13:09.583+0000] {processor.py:161} INFO - Started process (PID=8567) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:13:09.585+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-02-22T00:13:09.586+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:09.585+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:13:09.592+0000] {processor.py:840} INFO - DAG(s) 'example_sensor_decorator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-02-22T00:13:09.608+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:09.608+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-22T00:13:09.620+0000] {logging_mixin.py:188} INFO - [2024-02-22T00:13:09.620+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-02-22T00:13:09.642+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.062 seconds

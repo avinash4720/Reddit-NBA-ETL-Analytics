@@ -1,0 +1,70 @@
+[2024-02-13T05:21:25.882+0000] {processor.py:161} INFO - Started process (PID=2781) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:21:25.883+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:21:25.884+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:25.883+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:21:25.896+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:21:26.000+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:26.000+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:21:26.019+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:21:26.019+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:21:26.042+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.164 seconds
+[2024-02-13T05:22:25.213+0000] {processor.py:161} INFO - Started process (PID=3021) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:22:25.215+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:22:25.216+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:25.215+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:22:25.228+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:22:25.254+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:25.254+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:22:25.277+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:22:25.276+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:22:25.301+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.091 seconds
+[2024-02-13T05:23:12.477+0000] {processor.py:161} INFO - Started process (PID=3258) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:23:12.478+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:23:12.479+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:12.479+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:23:12.492+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:23:12.517+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:12.517+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:23:12.541+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:23:12.540+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:23:12.562+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.089 seconds
+[2024-02-13T05:24:02.077+0000] {processor.py:161} INFO - Started process (PID=3374) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:24:02.079+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:24:02.080+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:02.079+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:24:02.092+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:24:02.117+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:02.117+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:24:02.139+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:02.138+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:24:02.161+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2024-02-13T05:24:53.493+0000] {processor.py:161} INFO - Started process (PID=3490) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:24:53.495+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:24:53.496+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:53.495+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:24:53.509+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:24:53.533+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:53.533+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:24:53.555+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:24:53.555+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:24:53.577+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2024-02-13T05:25:47.143+0000] {processor.py:161} INFO - Started process (PID=3638) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:25:47.144+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:25:47.145+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:47.144+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:25:47.157+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:25:47.182+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:47.182+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:25:47.204+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:47.204+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:25:47.226+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2024-02-13T05:26:48.484+0000] {processor.py:161} INFO - Started process (PID=3919) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:26:48.486+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:26:48.487+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:48.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:26:48.500+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:26:48.524+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:48.524+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:26:48.546+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:48.546+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:26:48.567+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.086 seconds
+[2024-02-13T05:27:51.604+0000] {processor.py:161} INFO - Started process (PID=4404) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:27:51.606+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:27:51.607+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:51.606+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:27:51.620+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:27:51.644+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:51.644+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:27:51.667+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:51.666+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:27:51.689+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.088 seconds
+[2024-02-13T05:28:51.932+0000] {processor.py:161} INFO - Started process (PID=4657) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:28:51.933+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:28:51.934+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:51.934+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:28:51.947+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:28:51.972+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:51.972+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:28:51.994+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:51.994+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:28:52.016+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.088 seconds
+[2024-02-13T05:29:48.531+0000] {processor.py:161} INFO - Started process (PID=4780) to work on /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:29:48.532+0000] {processor.py:830} INFO - Processing file /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-02-13T05:29:48.533+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:48.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:29:48.546+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-02-13T05:29:48.571+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:48.571+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:29:48.594+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:48.594+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2024-02-12 00:00:00+00:00, run_after=2024-02-13 00:00:00+00:00
+[2024-02-13T05:29:48.616+0000] {processor.py:183} INFO - Processing /home/ubuntu/reddit_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.089 seconds

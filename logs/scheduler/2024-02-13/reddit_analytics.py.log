@@ -1,0 +1,60 @@
+[2024-02-13T05:25:40.369+0000] {processor.py:161} INFO - Started process (PID=3544) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:25:40.369+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:25:40.370+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:40.370+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:25:41.116+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.116+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:25:41.238+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:25:41.335+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.334+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:reddit_data_analytics_dag
+[2024-02-13T05:25:41.347+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.347+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:reddit_data_analytics_dag
+[2024-02-13T05:25:41.357+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.357+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:reddit_data_analytics_dag
+[2024-02-13T05:25:41.358+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.357+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:25:41.367+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.367+0000] {dag.py:3058} INFO - Creating ORM DAG for reddit_data_analytics_dag
+[2024-02-13T05:25:41.377+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:25:41.377+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:25:41.396+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 1.031 seconds
+[2024-02-13T05:26:31.190+0000] {processor.py:161} INFO - Started process (PID=3839) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:26:31.191+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:26:31.192+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:31.192+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:26:31.704+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:31.704+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:26:31.786+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:26:31.796+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:31.796+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:26:31.816+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:26:31.815+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:26:31.836+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 0.649 seconds
+[2024-02-13T05:27:12.479+0000] {processor.py:161} INFO - Started process (PID=4058) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:27:12.480+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:27:12.481+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:12.480+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:27:12.999+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:12.999+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:27:13.084+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:27:13.095+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:13.094+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:27:13.114+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:13.114+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:27:13.134+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 0.659 seconds
+[2024-02-13T05:27:54.365+0000] {processor.py:161} INFO - Started process (PID=4469) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:27:54.367+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:27:54.368+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:54.367+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:27:54.887+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:54.886+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:27:54.971+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:27:54.982+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:54.981+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:27:55.001+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:27:55.001+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:27:55.021+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 0.659 seconds
+[2024-02-13T05:28:35.880+0000] {processor.py:161} INFO - Started process (PID=4577) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:28:35.881+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:28:35.882+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:35.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:28:36.411+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:36.411+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:28:36.496+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:28:36.506+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:36.506+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:28:36.526+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:28:36.526+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:28:36.548+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 0.671 seconds
+[2024-02-13T05:29:13.638+0000] {processor.py:161} INFO - Started process (PID=4681) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:29:13.640+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:29:13.641+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:13.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:29:14.161+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:14.161+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:29:14.245+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:29:14.255+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:14.255+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:29:14.274+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:14.274+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:29:14.295+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 0.660 seconds
+[2024-02-13T05:29:51.958+0000] {processor.py:161} INFO - Started process (PID=4783) to work on /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:29:51.959+0000] {processor.py:830} INFO - Processing file /home/ubuntu/airflow/dags/reddit_analytics.py for tasks to queue
+[2024-02-13T05:29:51.960+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:51.960+0000] {dagbag.py:538} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:29:52.476+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:52.476+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2024-02-13T05:29:52.558+0000] {processor.py:840} INFO - DAG(s) 'reddit_data_analytics_dag' retrieved from /home/ubuntu/airflow/dags/reddit_analytics.py
+[2024-02-13T05:29:52.569+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:52.568+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-02-13T05:29:52.588+0000] {logging_mixin.py:188} INFO - [2024-02-13T05:29:52.588+0000] {dag.py:3823} INFO - Setting next_dagrun for reddit_data_analytics_dag to 2024-02-04 00:00:00+00:00, run_after=2024-02-11 00:00:00+00:00
+[2024-02-13T05:29:52.609+0000] {processor.py:183} INFO - Processing /home/ubuntu/airflow/dags/reddit_analytics.py took 0.655 seconds
